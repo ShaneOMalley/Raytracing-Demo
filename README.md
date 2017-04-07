@@ -5,3 +5,5 @@ Please feel free to wade through my awful code to see if you can find anything u
 Also, please leave suggestions as to how my code can be improved, It would really help me, and other people out, and do not be afraid to ask questions if you are wondering how any of this project works.
 
 Thanks, Shane O' Malley
+
+PS: The links on java-gaming.org do not work anymore, and the original post is so old that I cannot edit them
